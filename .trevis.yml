@@ -1,4 +1,4 @@
 language: java
-rvm:
- - 8.1.2
- - jre
+
+jdk:
+ - openjdk8
